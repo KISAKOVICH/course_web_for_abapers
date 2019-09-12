@@ -1,0 +1,31 @@
+h2 {
+    font-family: Georgia;
+    line-height: 1.3em;
+}
+
+.one {
+    background: red;
+    position: relative;
+    width: 200px;
+    height: 200px;
+}
+
+.two {
+    background: rgb(69, 187, 69);
+    z-index: 1;
+    position: relative;
+    left: 8.2%;
+    margin-top: -100px;
+    width: 200px;
+    height: 200px;
+
+}
+
+.three {
+    position: relative;
+    background: blue;
+    width: 200px;
+    height: 200px;
+    margin-top: -100px;
+    left: 16.4%;
+}

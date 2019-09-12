@@ -1,0 +1,52 @@
+body {
+    margin: 0%;
+    padding: 0%;
+}
+
+h2 {
+    font-family: Georgia;
+    line-height: 1.3em;
+    text-align: center;
+    font-size: 30px;
+}
+
+header {
+    margin-left: 5%;
+    margin-right: 5%;
+    height: 15%;
+    border-radius: 0px 0px 30px 30px;
+    text-align: center;
+    background: burlywood;
+    color: beige;
+}
+
+.sidebar {
+    position: fixed;
+    top: 20%;
+    bottom: 20%;
+    width: 10%;
+    height: 600px;
+    background-color: bisque;
+    text-align: center;
+}
+
+.main {
+
+    position: fixed;
+    left: 10%;
+    background-color: cornsilk;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    height: 15%;
+    border-radius: 50px 50px 0px 0px;
+    text-align: center;
+    color: white;
+    background-color: blanchedalmond;
+}
